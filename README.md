@@ -1,5 +1,4 @@
 # Kannada MNIST
-MNIST like datatset for Kannada handwritten digits
 
 ## Problem Statement
 
