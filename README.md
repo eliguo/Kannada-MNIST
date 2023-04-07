@@ -1,4 +1,7 @@
-# Kannada MNIST
+# Kannada MNIST Kaggle Competition
+PA ST 810: Convolutional Neural Network  
+**Topic**: Artificial Neural Networks, Model Interpretation, and Regularization  
+**Instructor**: Pavlos Protopapas
 
 ## Problem Statement
 
