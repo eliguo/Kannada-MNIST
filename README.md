@@ -1,5 +1,5 @@
 # Kannada MNIST Kaggle Competition
-PA ST 810: Convolutional Neural Network  
+PACSPP - 401003: Introduction to Neural Networks  
 **Topic**: Artificial Neural Networks, Model Interpretation, and Regularization  
 **Instructor**: Pavlos Protopapas
 
